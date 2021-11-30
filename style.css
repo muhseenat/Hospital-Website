@@ -85,7 +85,7 @@
     position: fixed;
     top:0; left: 0;
     padding:2rem 1rem;
-    z-index: 1000;
+    z-index: 1;
   }
   
   .header-active{
